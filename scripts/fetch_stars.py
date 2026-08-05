@@ -9,7 +9,7 @@ import time
 
 # ============ 配置区 ============
 TOKEN    = "ghp_新账号TOKEN"
-USERNAME = "新账号username"
+USERNAME = "TreasureBoy99"
 OUT_FILE = "/root/github-migration/data/starred_repos.json"
 # ===============================
 

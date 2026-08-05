@@ -16,7 +16,7 @@ from datetime import datetime
 SRC_TOKEN = "ghp_旧账号TOKEN"          # 旧账号 token（读权限）
 DST_TOKEN = "ghp_新账号TOKEN"          # 新账号 token（需要 repo 权限）
 SRC_USER  = "anonymous99-Rise"         # 旧账号 username
-DST_USER  = "新账号username"           # 新账号 username
+DST_USER  = "TreasureBoy99"            # 新账号 username（aged account）
 
 BACKUP_DIR  = "/root/github_backup"
 REPO_LIST   = "/root/github-migration/data/repo_list.txt"
